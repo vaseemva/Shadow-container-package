@@ -1,5 +1,6 @@
 name: shadow_container
-description: A new Flutter package project.
+description: A Flutter package that provides a custom `Container` widget with a shadow effect. This widget allows you to easily add a shadow effect to your UI elements without having to manually configure the `BoxShadow` property of the `Container` widget. You can customize the color, opacity, spread radius, blur radius, and border radius of the shadow to fit your needs.
+
 version: 0.0.1
 homepage: https://github.com/vaseemva/Shadow-container-package
 
